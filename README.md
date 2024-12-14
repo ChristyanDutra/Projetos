@@ -1,4 +1,7 @@
-Implementação 
+
+
+
+                                                    Implementação do clássico Game Racha Cuca dentro da plataforma JAVA.
 
  
 
