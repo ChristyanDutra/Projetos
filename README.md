@@ -1,10 +1,4 @@
 
-
-
-                                           Implementação do clássico Game Racha Cuca dentro da plataforma JAVA.
-
- 
-
 Para realizarmos a implementação do código, utilizaremos múltiplas funções para facilitar na economia de linhas e memória RAM, além disso traremos uma explicação de cada atividade dentro do código. Ainda, o trabalho foi desenvolvido dentro da plataforma Apache Netbeans, pois existe uma familiaridade com o programa e compatibilidade com o que é apresentado na sala de aula. 
 
  
